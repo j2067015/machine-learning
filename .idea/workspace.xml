@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="159151dc-d4b3-441f-8b14-d9ee150dc1dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mnist/script.py" beforeDir="false" afterPath="$PROJECT_DIR$/mnist/script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +25,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/KofalM/Desktop/machine-learning",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable"
+    "settings.editor.selected.configurable": "project.propVCSSupport.Confirmation"
   }
 }]]></component>
   <component name="RunManager">
@@ -78,5 +77,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="RELOAD_CONTEXT" value="false" />
   </component>
 </project>
