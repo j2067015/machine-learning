@@ -9,12 +9,13 @@ CWD = os.getcwd()
 
 
 def main():
-    print("main function")
+    image = read_data()[0]
+    display.display_image(image)
 
-def read_data(filename: str):
+def read_data(filename: str = "test-data.csv"):
     with open(f"{CWD}//mnist//{filename}") as images_data:
 
-        images_list = images_data.readlines()
+        images_list = images_data.readlines(1)
         for image in images_list:
             image = image.strip()
         
